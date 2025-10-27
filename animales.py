@@ -6,7 +6,8 @@ def mostrar_animales():
     animales = [
         "Perro",
         "Gato",
-        "Loro"
+        "Loro",
+        "tortuga"
     ]
     for a in animales:
         print("Animal:", a)
